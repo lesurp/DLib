@@ -40,6 +40,7 @@ namespace DVision
 
 // Features and descriptors
 #include "BRIEF256.h"
+#include "BRIEF.h"
 
 // Image functions
 #include "ImageFunctions.h"
